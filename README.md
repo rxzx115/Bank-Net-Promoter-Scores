@@ -29,9 +29,9 @@ Data visualization
 
 
 Insights and recommendations: 
-    1) The market in Mexico shows the highest NPS. 
-        - Investigate the drivers of this high NPS in Mexico by conducting qualitative research (customer interviews, surveys focusing on positive experiences) to understand what the bank is doing exceptionally well in this market.
-    2) The market in the US has the highest percentage of detractors, directly contributing to its lower NPS. 
-        - Conduct a comprehensive analysis of the customer journey and pain points in the US market to identify areas where customers are dissatisfied (e.g., specific services, processes, communication). 
-    3) There are significant percentages of passives across all markets. This represents a significant portion of customers who are neutral and potentially susceptible to competitor offers. 
-        - Develop strategies to convert passives into promoters in all markets, including personalized offers through loyalty program upgrades or tailored discounts and enhanced communication through new features or services.
+    1) A significant portion of customers are detractors, outnumbering passives. 
+        - Implement targeted surveys or interviews with detractors to identify their pain points (e.g., specific service issues, product features, fees). Address these issues directly to reduce the number of detractors and potentially convert them into passives or promoters.
+    2) The monthly NPS shows fluctuations throughout the year, with a peak in April and a dip in June. 
+        - Investigate the factors contributing to the NPS peaks and troughs each month. Analyze marketing campaigns, product launches, seasonal service changes, or external events that might correlate with these shifts. 
+    3) The distribution of ratings reveals a high frequency of both top scores and very low scores. 
+        - Implement targeted strategies for customers under passive scores. Implement a loyalty programs to further strengthen their relationship. Loyalty programs could include enhanced tier rewards (e.g., CDs, savings accounts, financial planning consultations), referral bonus programs (e.g., cash bonuses, reward point awards, reduction in credit card annual fees), and exclusive offers (e.g., new credit cards, insurance services, etc.).
